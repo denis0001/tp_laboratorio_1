@@ -44,7 +44,6 @@ float multiplicacion(float primerNumero, float segundoNumero);
 
 /** \brief calcula el factorial de una variable flotante
  *
- *
  * \param el numero a calcular su factorial
  * \return retorna el resultado
  *

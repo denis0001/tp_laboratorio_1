@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536372496 source:c:\users\gin\desktop\gfd\tp_laboratorio_1-master\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	"funciones.h"
+
+1536372496 c:\users\gin\desktop\gfd\tp_laboratorio_1-master\tp1\funciones.h
+
