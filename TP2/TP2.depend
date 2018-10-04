@@ -16,3 +16,20 @@
 	<stdlib.h>
 	<string.h>
 
+1538620660 source:c:\users\gin\desktop\tp_laboratorio_1-master\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1538620662 c:\users\gin\desktop\tp_laboratorio_1-master\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538620647 source:c:\users\gin\desktop\tp_laboratorio_1-master\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+
