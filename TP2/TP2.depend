@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1538618391 source:c:\users\gin\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1538618399 source:c:\users\gin\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+
+1538618275 c:\users\gin\desktop\tp2\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
