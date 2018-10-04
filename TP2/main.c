@@ -71,7 +71,5 @@ int main()
     }
     while(seguir == 's');
 
-
-
     return 0;
 }
